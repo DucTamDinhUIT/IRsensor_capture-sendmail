@@ -33,8 +33,8 @@ camera.brightness = 60
 SMTP_SERVER = 'smtp.gmail.com' #Email Server (don't change!)
 SMTP_PORT = 587 #Server Port (don't change!)
 GMAIL_USERNAME = 'ductam.astro@gmail.com' #change this to match your gmail account
-GMAIL_PASSWORD = 'hsxpkekkikunxkgt'  #change this to match your gmail password
-GMAIL_RECEIVE = '15520755@gm.uit.edu.vn'
+GMAIL_PASSWORD = '*********************'  #change this to match your gmail password
+GMAIL_RECEIVE = '********************'
 
 def send_mail():
     mail_content = "Hello, Ductam! " + "\n\r WARNING!!!  Someone was detected at " + time.ctime() + '''
